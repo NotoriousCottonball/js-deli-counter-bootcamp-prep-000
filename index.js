@@ -9,7 +9,7 @@ function nowServing(katzDeliLine) {
   } else {
     let person = katzDeliLine[0];
     katzDeliLine.shift();
-    return 
+    return person;
   }
   
 }
