@@ -20,6 +20,6 @@ function nowServing(katzDeliLine) {
          let line = "The line is currently: " ;
          line += `${i+1}. ${katzDeliLine[i]},`;
        }
-      }
           return line;
+  }
   }
