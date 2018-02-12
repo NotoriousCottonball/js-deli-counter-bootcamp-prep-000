@@ -3,4 +3,6 @@ function takeANumber(katzDeliLine, name) {
   let position = katzDeliLine.indexOf(name) +1;
   return `Welcome, ${name}. You are number ${position} in line.`;
 }
-function nowServing()
+function nowServing(katzDeliLine) {
+  
+}
