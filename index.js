@@ -21,5 +21,5 @@ function nowServing(katzDeliLine) {
          line += `${i+1}. ${katzDeliLine[i]},`;
           }
           };
-          return 
+          return line
   }
