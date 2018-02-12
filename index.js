@@ -20,6 +20,6 @@ function nowServing(katzDeliLine) {
        for (let i=0; i<katzDeliLine.length; i++) {
          line += `${i+1}. ${katzDeliLine[i]},`;
           }
-          };
-          return line
+          }
+          return line;
   }
