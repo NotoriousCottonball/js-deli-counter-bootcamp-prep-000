@@ -1,4 +1,4 @@
 function takeANumber(katzDeliLine, name) {
   katzDeliLine.push(name);
-  let position
+  let position = katzDeliLine.indexOf
 }
